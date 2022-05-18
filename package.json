@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteo0158/hello-world-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteo0158/hello-world-pages/issues"
+  },
+  "homepage": "https://github.com/matteo0158/hello-world-pages#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
