@@ -5,7 +5,7 @@ const createHtmlpageInBuildDir = () => {
 
     fs.writeFileSync('build/index.html', 'test ecriture2');
 };
-
+//test build
 createHtmlpageInBuildDir();
 
 // eslint-disable-next-line no-undef
